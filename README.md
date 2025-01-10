@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Sagar Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal with Keen interest on JavaScript.</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal with Keen interest on JavaScript. Completed BCA, 2021</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premium07&label=Profile%20views&color=0e75b6&style=flat" alt="premium07" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_prem_ium" target="blank"><img src="https://img.shields.io/twitter/follow/_prem_ium?logo=twitter&style=for-the-badge" alt="_prem_ium" /></a> </p>
 
-- 🌱 I’m currently learning **GraphQL, 3D animation for Website like Three Js**
+- 🌱 I’m currently learning **GraphQL, Three Js, Docker, Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Premium07](https://github.com/Premium07)
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premium07&show_icons=true&locale=en" alt="premium07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premium07&" alt="premium07" /></p>
-
